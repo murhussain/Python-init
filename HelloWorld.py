@@ -3,4 +3,6 @@ lName = "MURASHI"
 
 FullName = f"{fName} {lName}"
 
-print(FullName)
+print("Capitalized name: " + FullName.title())
+print("Lowercase name: " + FullName.lower())
+print("Uppercase name: " + FullName.upper())
